@@ -57,8 +57,8 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Location",
-      value: "khijuriwas, Bhiwadi",
-      link: "#",
+      value: "Sonipat, Haryana",
+      link: "https://maps.app.goo.gl/L2786n5YgbqFXrKx6",
     },
   ];
 
