@@ -61,7 +61,7 @@ const App = () => {
 
                         {/* download cv  */}
                         <li>
-                            <a href="/Satender-CV.pdf" download onClick={toggleMenu} className="flex items-center gap-1  py-2 px-3 text-gray-300 rounded-md md:hover:bg-transparent md:border-0 md:hover:text-[#8245ec] md:p-0 dark:text-white dark:hover:bg-gray-700 dark:hover:text-slate-400 md:dark:hover:bg-transparent transition-colors duration-200" > <MdFileDownload className="text-xl" /> <span>Download CV</span> </a>
+                            <a href="/Himesh's Resume.pdf" download onClick={toggleMenu} className="flex items-center gap-1  py-2 px-3 text-gray-300 rounded-md md:hover:bg-transparent md:border-0 md:hover:text-[#8245ec] md:p-0 dark:text-white dark:hover:bg-gray-700 dark:hover:text-slate-400 md:dark:hover:bg-transparent transition-colors duration-200" > <MdFileDownload className="text-xl" /> <span>Download CV</span> </a>
                         </li>
 
                         {/* Social Media Icons */}
